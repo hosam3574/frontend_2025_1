@@ -1,0 +1,56 @@
+#nav{
+   background-color: blue;
+grid-area: nav;
+
+
+
+}
+#leftMenu{
+      background-color: chartreuse;
+     grid-area: leftMenu;
+
+height: 800px;
+
+
+}
+
+
+
+
+#main{
+    background-color: yellow;
+grid-area: main;
+height: 600px;
+
+}
+
+
+#footer{
+
+    background-color: darkorange;
+grid-area:footer ;
+height: 200px;
+}
+
+
+
+
+#rightMenu{
+
+background-color: aqua;
+grid-area: rightMenu;
+
+
+}
+
+
+#container{
+    display: grid;
+    grid-template-areas: 
+    ' nav nav nav nav '
+    ' leftMenu main main rightMenu '
+    ' leftMenu footer footer footer ';
+    
+text-align: center;
+    
+}

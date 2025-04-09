@@ -1,0 +1,88 @@
+
+
+.header{
+    display: flex;
+   background-color: darkslategray;
+    color: white;
+}
+.header1{
+    margin-left: 150px;
+    font-size: 30px;
+}
+.header2{
+    margin-left: 350px;
+    font-size: 30px;
+}
+.header3{
+    font-size: 30px;
+    margin-left: 80px;
+}
+.header4{
+    font-size: 30px;
+    margin-left: 80px;
+}
+/* بلشت بلقسم الثاني*/
+
+
+
+.mainContent{
+
+    margin-left: 40%;
+
+
+}
+
+
+    .main>img{
+        width: 100px;
+        
+        border-radius: 900px;
+        background-color: bisque;
+        border: 500px;
+        margin-left: 160px;
+        
+       
+    }
+
+.main{
+    
+}
+
+
+
+.name{
+   font-size: ;
+   margin-left: 100px;
+   
+}
+.work{
+    font-size: 20px;
+    align-items: center;
+    margin-left: 120px;
+}
+.description{
+    font-size: 20px;
+    margin-left: 60px;
+
+}
+.button{
+    font-size: 20px;
+    background-color: rgb(127, 195, 255);
+    color: white;
+    border: 10px;
+    border-radius: 40px;
+    margin-left: 150px;
+}
+
+/* اخر الصفحة */
+.footer{
+display: flex;
+}
+.footer>p{
+   margin-left: 40%;
+   font-size: 30px;
+}
+.imgs{
+    font-size: 50px;
+    margin-left: 30px;
+}

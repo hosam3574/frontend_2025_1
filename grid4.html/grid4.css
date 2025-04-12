@@ -23,30 +23,39 @@
 }
 /* بلشت بلقسم الثاني*/
 
+.mainContent>main{
 
+}
 
 .mainContent{
 
-    margin-left: 40%;
+   margin-left: 40%;
+    align-items: center;
 
 
 }
+
+.backcoler>{
+   
+}
+
+
+
 
 
     .main>img{
         width: 100px;
         
         border-radius: 900px;
-        background-color: bisque;
+        background-color: rgb(247, 196, 255);
         border: 500px;
         margin-left: 160px;
         
        
     }
 
-.main{
-    
-}
+
+   
 
 
 
